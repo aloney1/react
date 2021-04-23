@@ -1,12 +1,10 @@
 # React实战之云音乐项目
 
-> 如果觉得不错，或者对你有帮助，点一个star~ coderwhy
-
 ### 1.1. 项目简介
 
-使用React编写的云音乐PC Web项目，接口来源于开源的接口，自己已经做了部署。
+使用React编写的云音乐PC Web项目
 
-项目已经完成功能如下：（你可以下载下来自己体验一下）
+项目已经完成功能如下：
 
 推荐页面：
 
@@ -101,11 +99,6 @@
 
 ### 1.3. 项目运行
 
-clone项目：
-
-```
-git clone https://github.com/coderwhy/hy-react-web-music.git
-```
 
 安装项目依赖：
 
